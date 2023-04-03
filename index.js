@@ -11,3 +11,4 @@ var hour = d.getHours();
 console.log('hours = ', hour);
 
 //반갑습니다.
+//변경해 봅니다.
