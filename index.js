@@ -9,3 +9,5 @@ console.log(formatedD);
 
 var hour = d.getHours();
 console.log('hours = ', hour);
+
+//반갑습니다.
